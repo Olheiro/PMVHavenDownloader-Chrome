@@ -20,7 +20,8 @@ FEATURES:
 
 INSTALLATION:
 - Extract the .zip file to a folder
-- On Chrome, click the extensions button on the toolbar and choose _Manage extensions_ or type chrome://extensions/ in the address bar.
+- On Chrome, click the extensions button on the toolbar choose _Manage extensions_ or type chrome://extensions/ in the address bar.
+- Click on _Developer mode_ in the upper right corner.
 - Click on _Load unpacked_ in the upper left corner.
 - Select the folder where the .zip file was extracted to.
 - Click on _Details_ on the extension's card to pin the icon to the toolbar or allow the extension in incognito windows as desired.
