@@ -19,7 +19,7 @@ Download individual videos from PMVHaven.com as MP4, choose resolution, and auto
 
 **INSTALLATION:**
 - Extract the .zip file to a folder
-- On Chrome, click the extensions button on the toolbar choose _Manage extensions_ or type chrome://extensions/ in the address bar.
+- On Chrome, click the extensions button on the toolbar and choose _Manage extensions_ or type chrome://extensions/ in the address bar.
 - Click on _Developer mode_ in the upper right corner.
 - Click on _Load unpacked_ in the upper left corner.
 - Select the folder where the .zip file was extracted to.
